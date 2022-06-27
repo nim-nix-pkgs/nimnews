@@ -410,8 +410,9 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-sK1Ow//80EKE3bAF5d+2gB8vPXw6m5TBk3wSLHvdVe0=",
-        "path": "/nix/store/0yqgkbpmsk7ck4s34wk505sfdd9vils4-source",
+        "lastModified": 0,
+        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
+        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
         "type": "path"
       },
       "original": {
@@ -605,7 +606,7 @@
         "passgen": "passgen",
         "prologue": "prologue",
         "scram": "scram",
-        "src-nimnews-v0_0_0": "src-nimnews-v0_0_0",
+        "src-nimnews-master": "src-nimnews-master",
         "templates": "templates"
       }
     },
@@ -889,19 +890,19 @@
         "type": "github"
       }
     },
-    "src-nimnews-v0_0_0": {
+    "src-nimnews-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1595065555,
-        "narHash": "sha256-xVYRmth/pS4UTMVr7+5YYL5eNn70UhvHQgvwMcotsms=",
+        "lastModified": 1605654722,
+        "narHash": "sha256-IIjJxhOQ96VaBl1+YwDuiAojIJ18+cLsqPYoQh1BHYk=",
         "owner": "mildred",
         "repo": "nimnews",
-        "rev": "dd2f90372589067eee811511b8a72ef5f64071c7",
+        "rev": "3912f2932538b694a72362dbe2fb75bc9a5949b4",
         "type": "github"
       },
       "original": {
         "owner": "mildred",
-        "ref": "refs/tags/v0.0.0",
+        "ref": "refs/heads/master",
         "repo": "nimnews",
         "type": "github"
       }
